@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Solutions to 0x00. Shell, basics
