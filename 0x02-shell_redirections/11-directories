@@ -1,2 +1,2 @@
 #!/bin/bash
-fnd . -type d ! -path . -print | ec -1
+fnd . -type d ! -path . -print | wc -1
